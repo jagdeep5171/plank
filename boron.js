@@ -1,0 +1,1 @@
+module.exports = (req,res)=>{myVariable = {atom: "boron"}; return myVariable}
